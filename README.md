@@ -1,2 +1,4 @@
 # My-Digital-Assistant
-UiPath
+A Digital Assistant to enable daily tasks.
+
+Built using RPA tool UiPath
